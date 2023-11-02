@@ -57,7 +57,7 @@ If you want to contribute to this project or report issues, please follow these 
 
 5. Create a pull request on the original repository.
 
-We welcome contributions and bug reports!
+I welcome contributions and bug reports!
 
 ## License
 
@@ -65,7 +65,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Mention any libraries, resources, or tutorials that you found helpful during this project.
+- w3 schools
+- Udemy 
 
 ## Contact
 
