@@ -3,7 +3,7 @@
 
 ## ALX Final Project
 
-This project is a demonstration of a simple website built using only HTML and CSS. It showcases the use of these core web technologies to create a responsive and visually appealing web page.
+This project is a demonstration of a simple website built using only HTML and CSS. It showcases the use of these core web technologies to create a responsive and visually appealing web page with different types animations.
 
 ## Table of Contents
 
