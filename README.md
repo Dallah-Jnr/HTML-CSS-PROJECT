@@ -69,8 +69,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact me at [your-email@example.com].
+If you have any questions or need further assistance, feel free to contact me at [murtadhoabdulbasit62@gmail.com].
 
 ---
 
-By creating this README file, you provide clear and concise information about your project, making it easier for others to understand, use, and potentially contribute to it. Remember to replace placeholder text and links with your specific project details.
+By creating this README file, i think i have provided a clear and concise information about my project, making it easier for others to understand, use, and potentially contribute to it.
