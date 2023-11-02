@@ -30,7 +30,7 @@ You can view the live demo of this project [here](insert-link-to-demo).
 You don't need to install anything to run this project since it's a static website. Simply clone the repository or download the source code to your local machine.
 
 ```shell
-git clone https://github.com/your-username/your-project.git
+[git clone https://github.com/Dallah-Jnr/Webstack---Portfolio-Project.git
 ```
 
 ## Usage
