@@ -1,4 +1,3 @@
-Creating a README file for a project done with pure HTML and CSS is an important step to document your work and help others understand your project. Below is a sample composition for a README file for such a project:
 
 # Project Title
 
