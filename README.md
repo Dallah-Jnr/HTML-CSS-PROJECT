@@ -12,7 +12,6 @@ This project is a demonstration of a simple website built using only HTML and CS
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
