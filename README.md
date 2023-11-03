@@ -59,9 +59,6 @@ If you want to contribute to this project or report issues, please follow these 
 
 I welcome contributions and bug reports!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
