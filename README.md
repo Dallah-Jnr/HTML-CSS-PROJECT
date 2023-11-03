@@ -17,7 +17,7 @@ This project is a demonstration of a simple website built using only HTML and CS
 
 You can view the live demo of this project [here](https://drive.google.com/file/d/1DJREfW9JUex7O2RRdzUI__aA7PlLzCu4/view?usp=sharing).
 
-![Project Demo](https://drive.google.com/drive/folders/1ZYLL1OLW2-2GVMGSST_uiBEQBPLk7wip?usp=sharing)
+![Project Demo](https://drive.google.com/drive/folders/1ZYLL1OLW2-2GVMGSST_uiBEQBPLk7wip?usp=drive_link)
 
 ## Technologies Used
 
